@@ -1,0 +1,11 @@
+c:\users\1824\documents\visual studio 2013\Projects\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe.config
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.pdb
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.login.resources
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Properties.Resources.resources
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.csproj.GenerateResource.Cache
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.exe
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.pdb
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.tablequanli.resources
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.account.resources
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Admin.resources

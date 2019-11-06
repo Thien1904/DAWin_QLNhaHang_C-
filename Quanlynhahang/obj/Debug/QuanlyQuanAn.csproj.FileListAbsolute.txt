@@ -1,0 +1,123 @@
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe.config
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.pdb
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.account.resources
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Admin.resources
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.login.resources
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Properties.Resources.resources
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.tablequanli.resources
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.GenerateResource.Cache
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.exe
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.pdb
+C:\Users\1824\Documents\Visual Studio 2013\Projects\Quanlynhahang\Quanlynhahang\obj\Debug\QuanlyQuanAn.csprojResolveAssemblyReference.cache
+D:\Đồ án\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe.config
+D:\Đồ án\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe
+D:\Đồ án\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.pdb
+D:\Đồ án\Quanlynhahang\Quanlynhahang\obj\Debug\QuanlyQuanAn.csprojResolveAssemblyReference.cache
+D:\Đồ án\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.account.resources
+D:\Đồ án\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Admin.resources
+D:\Đồ án\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.dangnhap.resources
+D:\Đồ án\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Properties.Resources.resources
+D:\Đồ án\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.tablequanli.resources
+D:\Đồ án\Quanlynhahang\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.GenerateResource.Cache
+D:\Đồ án\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.exe
+D:\Đồ án\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.pdb
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe.config
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.account.resources
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Admin.resources
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.dangnhap.resources
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Properties.Resources.resources
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.tablequanli.resources
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.GenerateResource.Cache
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.pdb
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.exe
+C:\Users\1824\Desktop\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.pdb
+E:\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe.config
+E:\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe
+E:\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.pdb
+E:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.account.resources
+E:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Admin.resources
+E:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.dangnhap.resources
+E:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Properties.Resources.resources
+E:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.tablequanli.resources
+E:\Quanlynhahang\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.GenerateResource.Cache
+E:\Quanlynhahang\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.CoreCompileInputs.cache
+E:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.exe
+E:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.pdb
+E:\Quanlynhahang\Quanlynhahang\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Quanlynhahang\Quanlynhahang\bin\Debug\itextsharp.dll
+E:\Quanlynhahang\Quanlynhahang\bin\Debug\itextsharp.xml
+E:\Quanlynhahang\Quanlynhahang\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Quanlynhahang\Quanlynhahang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Quanlynhahang\Quanlynhahang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Quanlynhahang\Quanlynhahang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe.config
+H:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.exe
+H:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.pdb
+H:\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.exe
+H:\Quanlynhahang\Quanlynhahang\bin\Debug\Quanlynhahang.pdb
+H:\Quanlynhahang\Quanlynhahang\bin\Debug\itextsharp.dll
+H:\Quanlynhahang\Quanlynhahang\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+H:\Quanlynhahang\Quanlynhahang\bin\Debug\itextsharp.xml
+H:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.account.resources
+H:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Admin.resources
+H:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.dangnhap.resources
+H:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.Properties.Resources.resources
+H:\Quanlynhahang\Quanlynhahang\obj\Debug\Quanlynhahang.tablequanli.resources
+H:\Quanlynhahang\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.GenerateResource.Cache
+H:\Quanlynhahang\Quanlynhahang\obj\Debug\QuanlyQuanAn.csprojFakesResolveAssemblyReference.cache
+H:\123\Quanlynhahang\bin\Debug\Quanlynhahang.exe.config
+H:\123\Quanlynhahang\obj\Debug\Quanlynhahang.exe
+H:\123\Quanlynhahang\obj\Debug\Quanlynhahang.pdb
+D:\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Quanlynhahang.exe.config
+D:\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.exe
+D:\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.pdb
+D:\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Quanlynhahang.exe
+D:\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Quanlynhahang.pdb
+D:\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\itextsharp.dll
+D:\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\itextsharp.xml
+D:\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\QuanlyQuanAn.csprojFakesResolveAssemblyReference.cache
+D:\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.account.resources
+D:\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.Admin.resources
+D:\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.dangnhap.resources
+D:\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.Properties.Resources.resources
+D:\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.tablequanli.resources
+D:\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.GenerateResource.Cache
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Quanlynhahang.exe.config
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.exe
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.pdb
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Quanlynhahang.exe
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Quanlynhahang.pdb
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\itextsharp.dll
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\itextsharp.xml
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\QuanlyQuanAn.csprojFakesResolveAssemblyReference.cache
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\QuanlyQuanAn.csprojResolveAssemblyReference.cache
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.account.resources
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.Admin.resources
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.dangnhap.resources
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.Properties.Resources.resources
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.tablequanli.resources
+C:\Users\1824\Downloads\Compressed\Tài Liệu\Tài Liệu Học\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.GenerateResource.Cache
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Quanlynhahang.exe.config
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.exe
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.pdb
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Quanlynhahang.exe
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Quanlynhahang.pdb
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\itextsharp.dll
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\bin\Debug\itextsharp.xml
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.account.resources
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.Admin.resources
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.dangnhap.resources
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.Properties.Resources.resources
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\Quanlynhahang.tablequanli.resources
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.GenerateResource.cache
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.CoreCompileInputs.cache
+E:\Tài Liệu\NguyenDinhThien_4201104168\NguyenDinhThien_4201104168\Quanlynhahang\obj\Debug\QuanlyQuanAn.csproj.CopyComplete
